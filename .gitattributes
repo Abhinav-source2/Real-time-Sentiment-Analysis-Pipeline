@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/cleaned_reddit_posts.csv !text !filter !merge !diff
+data/reddit_labeled.csv !text !filter !merge !diff
+data/flattened_reddit_data.csv !text !filter !merge !diff

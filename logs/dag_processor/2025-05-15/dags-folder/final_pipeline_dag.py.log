@@ -1,0 +1,1140 @@
+{"timestamp":"2025-05-15T20:02:47.514347","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:02:51.580269","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:02:51.580380","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:03:24.740246","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:03:28.709916","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:03:28.710042","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:04:02.066260","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:04:06.070333","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:04:06.070470","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:04:38.925192","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:04:42.739402","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:04:42.739546","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:05:16.099221","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:05:19.916182","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:05:19.916271","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:05:52.979202","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:05:56.754895","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:05:56.755077","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:06:30.207273","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:06:34.039850","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:06:34.039988","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:07:07.860007","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:07:11.729285","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:07:11.729399","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:07:45.454086","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:07:50.793997","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:07:50.794111","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:08:24.068660","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:08:29.359185","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:08:29.359289","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:09:03.516775","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:09:08.728814","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:09:08.728959","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:09:42.172257","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:09:47.424069","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:09:47.424272","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:10:20.403775","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:10:25.405227","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:10:25.405381","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:10:58.720526","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:11:04.064119","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:11:04.064254","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:11:38.316622","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:11:43.269906","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:11:43.270019","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:12:16.996824","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:12:21.797385","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:12:21.797499","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:12:56.164893","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:13:01.105994","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:13:01.106137","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:13:33.932283","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:13:38.754379","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:13:38.754504","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:14:11.573304","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:14:16.348160","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:14:16.348328","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:14:50.061676","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:14:54.714692","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:14:54.714829","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:15:28.451173","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:15:32.326153","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:15:32.326266","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:16:05.359109","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:16:09.276405","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:16:09.276528","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:16:42.671106","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:16:46.759524","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:16:46.759642","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:17:20.468643","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:17:24.432583","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:17:24.432699","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:17:57.532750","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:18:01.574171","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:18:01.574258","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:18:34.692147","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:18:38.658612","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:18:38.658732","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:19:12.630674","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:19:16.667914","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:19:16.668031","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:19:49.887852","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:19:53.692019","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:19:53.692193","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:20:26.702175","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:20:30.686388","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:20:30.686505","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:21:03.595931","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:21:07.343475","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:21:07.343626","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:21:41.493961","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:21:45.497182","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:21:45.497297","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:22:19.332537","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:22:23.044429","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:22:23.044557","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:22:55.959107","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:22:59.749230","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:22:59.749348","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:23:32.961184","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:23:36.611790","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:23:36.611906","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:24:09.921385","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:24:13.731910","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:24:13.732030","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:24:49.326823","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:24:53.101066","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:24:53.101187","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:25:26.559790","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:25:30.399381","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:25:30.399497","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:26:03.560582","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:26:07.361172","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:26:07.361300","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:26:40.765120","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:26:44.785997","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:26:44.786119","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:27:18.129947","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:27:21.926511","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:27:21.926622","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:27:54.922082","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:27:58.651691","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:27:58.651819","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:28:31.579588","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:28:35.347528","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:28:35.347651","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:29:08.071906","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:29:11.835723","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:29:11.835869","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:29:43.934998","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:29:47.716960","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:29:47.717082","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:30:20.771525","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:30:26.916083","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:30:26.916248","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:31:00.604368","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:31:06.748282","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:31:06.751826","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:31:40.572537","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:31:46.706364","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:31:46.706510","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:32:20.713189","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:32:26.817049","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:32:26.817236","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:32:59.809392","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:33:05.909286","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:33:05.910425","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:33:40.355192","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:33:46.642652","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:33:46.645375","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:34:20.045781","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:34:26.120840","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:34:26.121003","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:35:00.030502","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:35:05.350209","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:35:05.350414","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:35:38.714204","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:35:43.966713","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:35:43.966870","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:36:17.058287","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:36:22.462426","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:36:22.462635","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:36:55.949157","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:37:01.570149","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:37:01.570326","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:37:34.594639","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:37:39.933593","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:37:39.933718","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:38:13.569302","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:38:19.002441","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:38:19.002687","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:38:53.774042","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:38:59.036677","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:38:59.036828","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:39:33.037477","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:39:38.255252","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:39:38.255418","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:40:11.841951","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:40:16.130417","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:40:16.130581","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:40:49.554623","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:40:53.726004","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:40:53.726165","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:41:27.626231","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:41:31.780280","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:41:31.780590","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:42:05.433308","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:42:09.528067","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:42:09.528231","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:42:43.544026","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:42:47.609523","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:42:47.609646","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:43:20.856562","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:43:24.928624","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:43:24.928755","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:43:58.568231","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:44:02.800243","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:44:02.800359","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:44:36.149905","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:44:40.071275","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:44:40.071411","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:45:14.099991","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:45:18.781389","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:45:18.781473","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:45:52.012805","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:45:55.822324","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:45:55.822447","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:46:29.780511","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:46:33.766162","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:46:33.766285","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:47:07.161533","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:47:11.041003","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:47:11.041119","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:47:44.785531","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:47:48.661191","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:47:48.661309","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:48:22.447159","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:48:26.423246","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:48:26.423369","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:49:00.799667","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:49:04.769065","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:49:04.769146","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:49:39.607949","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:49:43.390963","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:49:43.391083","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:50:16.919194","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:50:20.806807","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:50:20.806924","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:50:53.842777","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:50:57.729439","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:50:57.729578","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:51:31.575552","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:51:35.367685","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:51:35.367801","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:52:09.331460","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:52:13.180403","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:52:13.180520","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:52:46.655465","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:52:50.374348","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:52:50.374461","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:53:23.597355","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:53:27.538869","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:53:27.538994","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:54:00.986548","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:54:04.951930","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:54:04.952030","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:54:38.618551","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:54:42.505998","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:54:42.506124","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:55:16.204604","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:55:19.966470","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:55:19.966584","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:55:53.858010","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:55:57.646651","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:55:57.646813","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:56:30.353656","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:56:34.121304","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:56:34.121420","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:57:07.015445","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:57:11.018013","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:57:11.018100","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:57:44.858705","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:57:48.748086","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:57:48.748212","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:58:22.730607","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:58:26.573517","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:58:26.573630","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:59:00.158523","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:59:03.975537","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:59:03.975686","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:59:37.907097","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T20:59:41.760248","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T20:59:41.760362","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:00:05.167353","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:00:08.983759","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:00:08.983894","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:00:33.435827","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:00:37.330791","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:00:37.330906","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:01:02.266825","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:01:06.112539","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:01:06.112696","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:01:40.589812","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:01:44.618063","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:01:44.618172","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:02:18.802812","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:02:25.219841","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:02:25.219945","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:02:58.436159","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:03:04.362791","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:03:04.363018","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:03:38.194812","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:03:44.207806","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:03:44.207921","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:04:18.016861","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:04:24.420813","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:04:24.420963","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:04:58.750405","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:05:04.655406","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:05:04.655533","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:05:38.047277","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:05:43.984557","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:05:43.984682","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:06:18.015969","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:06:23.804187","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:06:23.804315","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:06:57.449213","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:07:02.693019","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:07:02.693155","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:07:36.194045","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:07:41.760099","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:07:41.760223","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:08:15.630521","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:08:21.201256","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:08:21.201381","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:08:54.734227","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:09:00.358496","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:09:00.358633","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:09:34.585189","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:09:39.901049","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:09:39.901174","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:10:13.034133","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:10:18.010400","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:10:18.010543","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:10:51.522759","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:10:56.520417","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:10:56.520580","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:11:30.260385","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:11:35.603458","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:11:35.603613","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:12:09.398963","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:12:13.339079","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:12:13.339208","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:12:46.185498","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:12:50.011037","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:12:50.011151","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:13:23.103883","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:13:26.967245","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:13:26.967393","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:14:00.560202","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:14:04.318940","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:14:04.319054","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:14:37.871058","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:14:41.685966","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:14:41.686104","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:15:14.854033","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:15:18.551550","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:15:18.551668","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:15:52.148242","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:15:56.134896","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:15:56.135013","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:16:30.056472","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:16:33.910250","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:16:33.910364","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:17:06.633405","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:17:10.713105","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:17:10.713222","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:17:43.942873","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:17:47.806559","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:17:47.806838","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:18:21.792778","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:18:25.614545","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:18:25.614663","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:18:59.193088","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:19:03.035065","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:19:03.035300","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:19:35.844092","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:19:39.555156","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:19:39.555239","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:20:13.906873","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:20:17.630327","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:20:17.630445","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:20:51.053180","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:20:54.817193","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:20:54.817309","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:21:27.491907","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:21:31.203272","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:21:31.203386","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:22:04.927057","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:22:08.624802","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:22:08.624953","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:22:41.699525","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:22:45.433695","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:22:45.433814","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:23:18.646574","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:23:22.433285","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:23:22.433394","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:23:55.155768","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:23:58.892732","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:23:58.892840","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:24:32.957378","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:24:36.612954","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:24:36.613060","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:25:10.140711","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:25:13.896349","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:25:13.896463","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:25:47.175961","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:25:50.955411","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:25:50.955524","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:26:25.766334","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:26:29.469483","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:26:29.469594","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:27:03.753323","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:27:07.455552","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:27:07.455665","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:27:40.849099","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:27:44.540227","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:27:44.540343","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:28:17.684836","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:28:21.367478","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:28:21.367606","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:28:55.301645","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:28:59.121178","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:28:59.121289","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:29:32.806006","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:29:36.741359","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:29:36.741473","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:30:10.911577","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:30:14.591905","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:30:14.591988","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:30:48.171038","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:30:51.982889","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:30:51.983002","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:31:25.464285","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:31:29.504526","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:31:29.504644","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:32:02.771082","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:32:06.597431","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:32:06.597546","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:32:40.799984","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:32:44.475951","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:32:44.476068","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:33:19.968180","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:33:23.936927","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:33:23.937078","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:33:57.242934","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:34:01.228648","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:34:01.228735","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:34:35.583013","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:34:39.615357","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:34:39.615471","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:35:13.184034","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:35:16.950751","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:35:16.950866","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:35:51.155337","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:35:55.103782","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:35:55.103898","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:36:28.337671","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:36:32.164757","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:36:32.164950","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:37:05.654147","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:37:09.383322","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:37:09.383444","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:37:43.043566","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:37:46.779349","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:37:46.779702","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:38:20.789832","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:38:24.552320","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:38:24.552433","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:38:57.541284","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:39:01.286140","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:39:01.286272","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:39:34.176171","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:39:38.202277","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:39:38.202451","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:40:11.659679","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:40:15.476597","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:40:15.476712","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:40:49.849834","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:40:53.616935","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:40:53.617048","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:41:27.391758","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:41:31.121933","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:41:31.122205","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:42:04.107817","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:42:07.785066","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:42:07.785232","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:42:41.009712","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:42:44.734059","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:42:44.734176","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:43:18.273203","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:43:21.969526","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:43:21.969639","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:43:57.115845","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:44:00.857245","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:44:00.857373","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:44:34.964065","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:44:38.987007","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:44:38.987100","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:45:12.460883","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:45:16.172686","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:45:16.172805","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:45:49.110104","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:45:52.813108","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:45:52.813220","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:46:25.933499","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:46:29.657549","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:46:29.657664","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:47:04.468942","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:47:08.141037","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:47:08.141156","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:47:41.994618","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:47:45.776473","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:47:45.776587","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:48:18.726529","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:48:22.481453","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:48:22.481567","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:48:56.259687","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:48:59.954824","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:48:59.954943","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:49:33.205488","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:49:36.927214","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:49:36.927328","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:50:09.732722","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:50:13.626548","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:50:13.626664","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:50:47.572739","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:50:51.215442","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:50:51.215557","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:51:24.983424","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:51:28.672698","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:51:28.672816","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:52:01.975032","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:52:05.636657","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:52:05.636777","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:52:39.965911","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:52:43.646798","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:52:43.646928","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:53:17.025728","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:53:20.744312","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:53:20.744426","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:53:53.824941","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:53:57.539336","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:53:57.539451","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:54:30.548909","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:54:34.233367","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:54:34.233489","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:55:07.824173","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:55:11.468081","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:55:11.468198","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:55:44.811727","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:55:48.527844","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:55:48.527957","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:56:22.857911","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:56:26.536771","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:56:26.536891","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:57:00.431628","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:57:04.102536","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:57:04.102738","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:57:37.331665","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:57:41.044067","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:57:41.044186","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:58:14.858249","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:58:18.525761","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:58:18.525879","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:58:52.228767","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:58:56.002105","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:58:56.002222","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:59:29.587950","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T21:59:33.543392","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T21:59:33.543504","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:00:06.773173","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:00:10.742770","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:00:10.742885","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:00:43.990623","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:00:47.819662","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:00:47.819777","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:01:22.351673","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:01:26.147395","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:01:26.147515","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:01:59.013158","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:02:02.831021","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:02:02.831140","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:02:35.760769","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:02:39.653068","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:02:39.653185","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:03:13.659499","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:03:17.420332","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:03:17.420448","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:03:50.594338","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:03:54.461458","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:03:54.461590","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:04:28.044650","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:04:31.777673","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:04:31.777786","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:05:05.127937","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:05:08.817771","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:05:08.817889","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:05:42.384903","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:05:46.176982","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:05:46.177105","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:06:19.893565","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:06:23.642093","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:06:23.642210","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:06:56.541342","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:07:00.342020","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:07:00.342105","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:07:34.789287","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:07:38.530919","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:07:38.531035","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:08:11.206518","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:08:14.868871","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:08:14.868985","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:08:48.089711","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:08:51.793379","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:08:51.793490","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:09:24.847886","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:09:28.613042","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:09:28.613155","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:10:01.920313","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:10:05.628855","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:10:05.628970","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:10:39.354193","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:10:43.163711","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:10:43.163844","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:11:17.511757","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:11:21.303108","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:11:21.303193","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:11:54.490789","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:11:58.242789","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:11:58.242907","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:12:31.639296","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:12:35.320374","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:12:35.320482","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:13:08.536108","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:13:12.157973","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:13:12.158060","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:13:45.587106","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:13:49.367929","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:13:49.368010","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:14:22.893736","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:14:26.563330","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:14:26.563445","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:14:59.753704","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:15:03.452618","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:15:03.452744","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:15:36.593351","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:15:40.432163","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:15:40.432299","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:16:13.871222","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:16:17.599425","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:16:17.599535","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:16:51.177348","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:16:54.880719","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:16:54.880834","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:17:28.829865","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:17:32.482341","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:17:32.482461","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:18:06.565819","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:18:10.251461","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:18:10.251608","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:18:43.446118","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:18:47.082203","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:18:47.082539","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:19:21.136374","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:19:24.773885","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:19:24.773998","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:19:58.798649","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:20:02.533117","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:20:02.533235","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:20:35.988488","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:20:39.715279","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:20:39.715388","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:21:13.556833","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:21:17.175972","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:21:17.176087","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:21:50.659870","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:21:54.346757","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:21:54.347054","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:22:28.626156","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:22:32.397625","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:22:32.397745","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:23:06.244967","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:23:09.935989","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:23:09.936271","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:23:44.290954","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:23:48.064026","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:23:48.064140","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:24:21.489666","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:24:25.510292","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:24:25.510449","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:24:59.360091","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:25:03.051885","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:25:03.052004","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:25:36.070146","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:25:39.767917","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:25:39.768026","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:26:12.970882","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:26:16.714056","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:26:16.714141","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:26:50.157940","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:26:53.890575","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:26:53.890689","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:27:27.083651","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:27:30.781422","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:27:30.781507","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:28:04.380180","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:28:08.083233","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:28:08.083317","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:28:42.254055","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:28:46.044552","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:28:46.044667","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:29:19.074223","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:29:22.819925","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:29:22.820040","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:29:56.568568","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:30:00.251654","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:30:00.251780","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:30:34.047649","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:30:37.823297","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:30:37.823405","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:31:10.727369","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:31:14.478043","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:31:14.478158","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:31:47.581115","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:31:51.290296","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:31:51.290411","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:32:25.056558","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:32:28.758563","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:32:28.758677","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:33:02.261219","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:33:06.038426","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:33:06.038539","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:33:39.933587","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:33:43.771245","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:33:43.771355","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:34:17.014372","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:34:20.773142","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:34:20.773251","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:34:55.488482","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:34:59.164622","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:34:59.164737","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:35:32.609762","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:35:36.385014","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:35:36.385157","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:36:09.121012","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:36:12.811684","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:36:12.811850","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:36:45.495437","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:36:49.194547","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:36:49.194664","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:37:22.073735","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:37:25.834905","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:37:25.835020","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:37:59.840835","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:38:03.691074","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:38:03.691189","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:38:37.944289","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:38:41.705433","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:38:41.705542","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:39:14.612269","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:39:18.308843","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:39:18.308951","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:39:52.455478","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:39:56.411969","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:39:56.412095","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:40:30.364881","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:40:34.036438","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:40:34.036560","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:41:07.822784","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:41:11.574071","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:41:11.574188","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:41:45.405954","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:41:49.167106","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:41:49.167218","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:42:22.107719","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:42:25.951539","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:42:25.951655","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:42:59.392386","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:43:03.003144","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:43:03.003260","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:43:37.409023","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:43:41.067322","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:43:41.067433","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:44:14.569141","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:44:18.308617","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:44:18.308739","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:44:51.351725","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:44:55.027469","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:44:55.027585","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:45:29.101236","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:45:32.782065","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:45:32.782177","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:46:06.572331","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:46:10.330528","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:46:10.330636","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:46:43.534190","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:46:47.272137","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:46:47.272247","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:47:21.118327","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:47:24.802531","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:47:24.802659","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:47:59.359301","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:48:03.108964","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:48:03.109048","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:48:36.088994","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:48:39.779599","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:48:39.779715","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:49:12.979307","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:49:16.646758","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:49:16.646891","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:49:50.072674","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:49:53.736527","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:49:53.736644","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:50:27.230128","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:50:30.956754","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:50:30.956871","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:51:04.559842","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:51:08.243806","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:51:08.243936","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:51:44.601465","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:51:48.311762","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:51:48.311876","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:52:22.369839","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:52:26.192818","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:52:26.192948","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:52:59.825376","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:53:03.566694","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:53:03.566814","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:53:36.340219","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:53:40.054132","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:53:40.054250","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:54:12.721795","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:54:16.554292","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:54:16.554429","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:54:49.738179","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:54:53.651151","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:54:53.651267","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:55:26.526751","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:55:30.370111","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:55:30.370229","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:56:04.195833","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:56:07.987801","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:56:07.987918","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:56:41.529315","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:56:45.262048","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:56:45.262162","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:57:18.452834","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:57:22.316739","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:57:22.316851","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:57:56.380573","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:58:00.127325","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:58:00.127513","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:58:33.726933","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:58:37.580190","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:58:37.580276","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:59:11.211753","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:59:14.958599","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:59:14.958716","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:59:49.108023","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T22:59:52.911676","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T22:59:52.911760","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:00:27.204484","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:00:30.949818","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:00:30.949936","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:01:05.000657","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:01:08.746606","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:01:08.746727","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:01:41.788388","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:01:45.479077","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:01:45.479188","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:02:18.117328","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:02:21.822031","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:02:21.822150","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:02:55.323932","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:02:59.083782","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:02:59.083872","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:03:31.970079","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:03:35.811930","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:03:35.812060","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:04:09.456981","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:04:13.189984","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:04:13.190120","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:04:46.007131","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:04:49.731401","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:04:49.731520","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:05:22.759013","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:05:26.439727","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:05:26.439840","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:05:59.141956","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:06:02.824779","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:06:02.824902","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:06:36.597891","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:06:40.347972","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:06:40.348323","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:07:13.265426","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:07:17.007678","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:07:17.007790","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:07:50.234076","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:07:53.968890","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:07:53.969005","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:08:27.045026","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:08:30.717629","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:08:30.717742","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:09:04.100263","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:09:07.824447","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:09:07.824575","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:09:41.509647","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:09:45.184830","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:09:45.184951","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:10:18.387745","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:10:22.178404","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:10:22.178517","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:10:55.541154","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:10:59.264419","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:10:59.264537","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:11:32.764378","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:11:36.625825","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:11:36.625939","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:12:10.183420","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:12:14.163152","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:12:14.163268","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:12:46.993704","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:12:50.826505","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:12:50.826620","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:13:24.525682","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:13:28.363866","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:13:28.364011","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:14:02.574189","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:14:06.517350","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:14:06.517463","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:14:39.386813","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:14:43.288005","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:14:43.288138","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:15:16.676878","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:15:20.467077","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:15:20.467189","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:15:54.861517","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:15:58.722434","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:15:58.722548","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:16:31.970837","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:16:36.060014","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:16:36.060162","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:17:09.882516","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:17:13.821952","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:17:13.822086","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:17:48.211069","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:17:52.207503","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:17:52.207619","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:18:25.379920","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:18:29.181296","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:18:29.181427","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:19:02.692904","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:19:06.483245","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:19:06.483357","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:19:39.761251","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:19:43.523771","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:19:43.523889","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:20:16.832392","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:20:20.703148","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:20:20.703283","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:20:53.608934","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:20:57.314422","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:20:57.314537","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:21:30.819282","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:21:34.636941","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:21:34.637050","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:22:08.274686","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:22:12.011472","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:22:12.011593","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:22:45.537463","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:22:49.296284","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:22:49.296400","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:23:23.419688","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:23:27.283805","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:23:27.283928","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:24:00.487495","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:24:04.205221","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:24:04.205514","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:24:37.436276","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:24:41.194156","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:24:41.194269","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:25:14.097938","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:25:17.796983","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:25:17.797099","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:25:50.718010","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:25:54.405366","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:25:54.405484","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:26:28.078378","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:26:31.850945","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:26:31.851082","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:27:04.842149","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:27:08.646857","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:27:08.646970","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:27:42.330191","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:27:46.085735","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:27:46.085875","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:28:19.026148","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:28:22.713160","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:28:22.713278","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:28:56.394613","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:29:00.172195","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:29:00.172311","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:29:33.775011","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:29:37.562554","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:29:37.562675","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:30:10.259160","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:30:13.996606","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:30:13.996724","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:30:46.796770","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:30:50.584774","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:30:50.584894","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:31:23.404414","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:31:27.138242","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:31:27.138358","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:32:00.825651","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:32:04.673833","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:32:04.673951","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:32:38.803152","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:32:42.600986","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:32:42.601099","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:33:15.878237","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:33:19.735089","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:33:19.735230","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:33:53.240891","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:33:57.102863","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:33:57.102978","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:34:30.864649","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:34:34.648602","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:34:34.648816","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:35:08.046151","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:35:11.993954","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:35:11.994219","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:35:46.406059","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:35:50.086463","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:35:50.086577","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:36:23.651520","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:36:27.394740","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:36:27.394857","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:37:01.525210","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:37:05.353699","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:37:05.353815","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:37:39.508096","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:37:43.309580","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:37:43.309696","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:38:16.844498","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:38:20.821371","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:38:20.821478","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:38:54.788309","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:38:58.507257","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:38:58.507405","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:39:31.606120","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:39:35.399477","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:39:35.399591","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:40:08.902956","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:40:12.774578","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:40:12.774701","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:40:46.738891","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:40:50.433841","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:40:50.434162","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:41:23.639213","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:41:27.513464","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:41:27.513575","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:42:01.109780","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:42:04.977782","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:42:04.977897","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:42:39.874363","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:42:43.478058","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:42:43.478164","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:43:17.177179","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:43:20.833818","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:43:20.833937","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:43:54.596299","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:43:58.586928","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:43:58.587038","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:44:32.278337","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:44:35.960296","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:44:35.960411","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:45:09.533829","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:45:13.248890","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:45:13.249008","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:45:47.160014","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:45:51.007812","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:45:51.007931","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:46:24.914614","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:46:28.771548","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:46:28.771661","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:47:01.865317","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:47:05.789402","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:47:05.789482","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:47:38.956443","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:47:42.715650","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:47:42.715764","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:48:16.574281","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:48:20.345137","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:48:20.345232","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:48:53.700687","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:48:57.739342","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:48:57.739452","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:49:31.270161","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:49:35.032652","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:49:35.032765","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:50:08.418125","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:50:12.286222","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:50:12.286334","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:50:45.799848","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:50:49.566385","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:50:49.566498","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:51:22.974648","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:51:26.866662","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:51:26.866773","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:51:59.982374","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:52:03.860203","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:52:03.860320","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:52:37.296271","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:52:41.094148","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:52:41.094264","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:53:14.343513","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:53:18.175782","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:53:18.175896","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:53:52.404352","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:53:56.120819","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:53:56.120954","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:54:30.358086","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:54:34.140496","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:54:34.140610","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:55:08.103954","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:55:11.852122","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:55:11.852235","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:55:44.703995","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:55:48.435993","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:55:48.436106","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:56:21.831063","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:56:25.574929","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:56:25.575059","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:56:59.087123","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:57:02.891796","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:57:02.891915","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:57:36.287437","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:57:40.143611","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:57:40.143928","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:58:13.448235","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:58:17.248257","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:58:17.248373","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:58:51.970997","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:58:55.751134","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:58:55.751391","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:59:28.733718","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/final_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T23:59:32.756764","level":"info","event":"Use pytorch device_name: cpu","logger":"sentence_transformers.SentenceTransformer"}
+{"timestamp":"2025-05-15T23:59:32.756896","level":"info","event":"Load pretrained SentenceTransformer: all-MiniLM-L6-v2","logger":"sentence_transformers.SentenceTransformer"}
